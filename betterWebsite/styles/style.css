@@ -1,0 +1,9 @@
+header > .logo {
+    font-size: 2em;
+    width: 100vw;
+}
+
+footer > a {
+    font-size: 0.7em;
+    text-decoration: none;
+}

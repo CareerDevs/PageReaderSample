@@ -1,0 +1,40 @@
+.header {
+    background-color: #00FFFF;
+    height: 50px;
+}
+
+.logo {
+    float: left;
+    color: #DC143C;
+}
+
+.link {
+    float: right;
+}
+
+.container {
+    clear: both;
+    background-color: #DDD;
+    color: #222;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.subtitle {
+    padding-left: 10px;
+}
+
+img {
+    width: 250px;
+}
+
+.footer {
+    background-color: #00008B;
+    color: #EEE;
+}
